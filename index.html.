@@ -1,0 +1,54 @@
+<title>La isla de Kanto</title>
+        <style>
+           
+            h1 {color:orange;
+			:font-size: 4 em;
+			}
+            
+			body {font-size: 70px}
+			
+            h2{color:orange;}
+		 
+		 
+		 body {font-family: times new roman;}
+		 
+		
+		 
+           
+            
+      
+            
+        </style>
+			
+	
+    </head>
+    <body>
+     
+	 
+        <h1>visita la isla de Kanto!</h1>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png"width="700">
+        <p id=Cambo>tienes que visitar Kanto es un<em><strong> hermoso lugar con bellas playas y exoticos pokemones</strong></em></p>
+        <h2>Lugares para visitar en Kanto</h2> <img src="https://www.kasandbox.org/programming-images/landscapes/beach-at-dusk.png"width="650">
+        
+        <li>pueblo lavanda</li>
+        <li>Cueva Diglett</li>
+        <li>pueblo paleta</li>
+        <li>playa tesoro</li>
+        <li>playa kentay</li>
+        <li>Cueva celeste</li>
+        <li>Tunel Roca</li>
+        <p id="definicion">Kanto es una isla gigante con hermosas playas alrededor de la isla en el suroeste hay un gigantesco volcan pero en la parte sureste hay un clima artico es hermoso para vacacionar hay muchas cosas que hacer</p>
+        <h2>Cosas que hacer en kanto</h2>
+        <a href="https://pokemon.fandom.com/es/wiki/Charizard" target="_blank"><img src="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/1200px-Charizard.png"width="400"></a>
+        <li>paseo en lapras
+        <li>Teatros de mr.Mime
+        <li>peleas en vivo
+        <li>La liga pokemon
+        <li>granjas de pokemon
+        <li>pesca de Magikarps </li>
+        
+        <p>la isla de kanto esta lleno de hoteles 3 4 y 5 estrellas muy economicos</p>
+
+        
+    </body>
+</html>
